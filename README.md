@@ -15,7 +15,7 @@ The game is over when neither player has a legal move (i.e. a move that captures
 **To Run**:  
 This game is played on a graphical user interface "othello_gui" file which uses the tkinter package
 
-**Supporting files**:
+**Supporting files**:  
 The logic of the game is running in the "othello_model" file  
 Both the GUI and the model use the "point" file as well  
 
